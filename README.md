@@ -9,12 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bbYcH&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbYcH&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
-<br/>
-
 Languages:
 
 <div align="left">
@@ -54,4 +48,12 @@ Optimization Solver：
 ![CPLEX](https://img.shields.io/badge/CPLEX-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![COPT](https://img.shields.io/badge/COPT-B3080A?style=for-the-badge)
 
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bbyCH/bbyCH/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bbyCH/bbyCH/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bbyCH/bbyCH/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
