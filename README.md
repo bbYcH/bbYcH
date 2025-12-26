@@ -61,7 +61,6 @@
 <br/>
 
 ### 📊 GitHub Activity
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bbYcH/bbYcH/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bbYcH/bbYcH/output/github-contribution-grid-snake.svg">
@@ -69,6 +68,7 @@
 </picture>
 
 <br/>
+
 
 <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
 
