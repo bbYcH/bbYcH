@@ -15,7 +15,7 @@
 ---
 
 ### 💻 Development Environment
-*I work across multiple platforms to ensure code robustness.*
+*I work across multiple platforms.*
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -34,7 +34,7 @@
 <br/>
 
 ### ⚡ Research & Visualization Tools
-*Specialized tools for Power Flow Analysis and Academic Presentation.*
+*Specialized tools for Analysis，Description and Presentation.*
 
 ![Pyomo](https://img.shields.io/badge/Pyomo-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![pandapower](https://img.shields.io/badge/pandapower-800080?style=for-the-badge&logo=python&logoColor=white)
