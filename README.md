@@ -61,8 +61,6 @@ Optimization Solver：
   <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
   
   <br/>
-
-  <img src="profile-summary-card-output/default/2-most-commit-language.svg" alt="Top Languages" />
 </div>
 
 <div align="left">
