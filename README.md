@@ -58,15 +58,15 @@ Optimization Solver：
 </div>
 
 <div align="left">
-  <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
-  
-  <br/>
-</div>
-
-<div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bbYcH/bbYcH/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bbYcH/bbYcH/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bbYcH/bbYcH/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<div align="left">
+  <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
+  
+  <br/>
 </div>
