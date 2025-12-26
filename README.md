@@ -1,6 +1,6 @@
 <div align="left">
 
-# Hi there, I'm bbYcH 👋
+# Hi there👋
 
 ### 🎓 A Post-graduate Student focusing on Power Systems & Optimization.
 - 🔭 I’m currently working on ...
