@@ -61,6 +61,7 @@
 <br/>
 
 ### 📊 GitHub Activity
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bbYcH/bbYcH/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bbYcH/bbYcH/output/github-contribution-grid-snake.svg">
@@ -69,7 +70,8 @@
 
 <br/>
 
-
 <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bbYcH&layout=compact&theme=default" alt="WakaTime Stats" />
 
 </div>
