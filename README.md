@@ -58,11 +58,11 @@ Optimization Solver：
 </div>
 
 <div align="left">
-  <img src="profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" />
+  <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
   
   <br/>
 
-  <img src="profile-summary-card-output/2077/2-most-commit-language.svg" alt="Top Languages" />
+  <img src="profile-summary-card-output/default/2-most-commit-language.svg" alt="Top Languages" />
 </div>
 
 <div align="left">
