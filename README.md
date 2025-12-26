@@ -58,7 +58,7 @@ Optimization Solver：
 </div>
 
 <div align="left">
-  <img src="profile-summary-cards/profile-details.svg" alt="bbyCH's GitHub Stats" />
+  <img src="profile-summary-cards/profile-details.svg" alt="bbYcH's GitHub Stats" />
   <br/>
   
   <img src="profile-summary-cards/top-langs.svg" alt="Top Languages" />
