@@ -26,18 +26,13 @@ Languages:
 Tools:
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" height="50" style="margin: 0 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" height="50" style="margin: 0 10px;" />
-  
-  <img src="https://img.icons8.com/color/96/microsoft-visio-2019.png" alt="Visio" height="50" style="margin: 0 10px;" />
-  
-  <br/><br/>
 
-  <img src="logo/pyomo.png" alt="Pyomo" height="50" style="margin: 0 10px;" />
-  
-  <img src="logo/pandapower.png" alt="pandapower" height="50" style="margin: 0 10px;" />
-  
-  <img src="logo/matpower.png" alt="MATPOWER" height="45" style="margin: 0 10px;" />
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
+![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white)
+![Pyomo](https://img.shields.io/badge/Pyomo-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandapower](https://img.shields.io/badge/pandapower-800080?style=for-the-badge&logo=python&logoColor=white)
+![YALMIP](https://img.shields.io/badge/YALMIP-b31b1b?style=for-the-badge&logo=mathworks&logoColor=white)
+![MATPOWER](https://img.shields.io/badge/MATPOWER-007ACC?style=for-the-badge&logo=mathworks&logoColor=white)
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=b31b1b&text=YALMIP&height=50&fontSize=30" alt="YALMIP" height="50" style="margin: 0 10px;" />
 </div>
