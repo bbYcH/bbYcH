@@ -36,3 +36,16 @@ Tools:
 ![MATPOWER](https://img.shields.io/badge/MATPOWER-007ACC?style=for-the-badge&logo=mathworks&logoColor=white)
 
 </div>
+
+Optimization Solver：
+
+<div align="center">
+
+![IPOPT](https://img.shields.io/badge/IPOPT-31A8FF?style=for-the-badge&logo=python&logoColor=white)
+![Gurobi](https://img.shields.io/badge/Gurobi-EE3524?style=for-the-badge&logo=python&logoColor=white)
+![Knitro](https://img.shields.io/badge/Knitro-F5821F?style=for-the-badge&logo=python&logoColor=white)
+![Mosek](https://img.shields.io/badge/Mosek-81BC00?style=for-the-badge&logo=python&logoColor=white)
+![CPLEX](https://img.shields.io/badge/CPLEX-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![COPT](https://img.shields.io/badge/COPT-B3080A?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
