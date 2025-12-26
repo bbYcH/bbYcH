@@ -58,6 +58,13 @@ Optimization Solver：
 </div>
 
 <div align="left">
+  <img src="profile-summary-cards/profile-details.svg" alt="bbyCH's GitHub Stats" />
+  <br/>
+  
+  <img src="profile-summary-cards/top-langs.svg" alt="Top Languages" />
+</div>
+
+<div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bbyCH/bbyCH/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bbyCH/bbyCH/output/github-contribution-grid-snake.svg">
