@@ -28,13 +28,13 @@ Tools:
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" height="50" style="margin: 0 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" height="50" style="margin: 0 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Microsoft_Office_Visio_%282019-present%29.svg" alt="Visio" height="50" style="margin: 0 10px;" />
+  <img src="https://img.icons8.com/color/96/microsoft-visio-2019.png" alt="Visio" height="50" style="margin: 0 10px;" />
   
   <br/><br/>
 
-  <img src="https://raw.githubusercontent.com/Pyomo/pyomo/main/doc/logos/pyomo-logo-clean.png" alt="Pyomo" height="50" style="margin: 0 10px;" />
+  <img src="https://pyomo.readthedocs.io/en/stable/_static/pyomo-logo-clean.png" alt="Pyomo" height="50" style="margin: 0 10px;" />
   
-  <img src="https://raw.githubusercontent.com/e2nIEE/pandapower/develop/doc/images/logo/pp_logo.png" alt="pandapower" height="50" style="margin: 0 10px;" />
+  <img src="https://pandapower.readthedocs.io/en/latest/_images/pp_logo.png" alt="pandapower" height="50" style="margin: 0 10px;" />
   
   <img src="https://matpower.org/images/MATPOWER-md.png" alt="MATPOWER" height="40" style="margin: 0 10px;" />
 
