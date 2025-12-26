@@ -48,7 +48,7 @@
 <br/>
 
 ### 🧮 Optimization Solvers
-*The heavy lifters for solving complex OPF and Planning problems.*
+*The heavy lifters for solving complex Operation and Planning problems.*
 
 ![Gurobi](https://img.shields.io/badge/Gurobi-EE3524?style=for-the-badge)
 ![Mosek](https://img.shields.io/badge/Mosek-81BC00?style=for-the-badge)
