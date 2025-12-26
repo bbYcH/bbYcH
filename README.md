@@ -9,6 +9,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bbycH&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbycH&layout=compact&theme=radical" height="150" alt="languages graph" />
+</div>
+<br/>
+
 Languages:
 
 <div align="left">
