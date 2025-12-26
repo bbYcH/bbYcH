@@ -1,5 +1,8 @@
-## Hi there 👋
+<div align="left">
 
+# Hi there, I'm bbYcH 👋
+
+### 🎓 A Ph.D. Student focusing on Power Systems & Optimization.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -8,13 +11,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<div align="center">
-
-# Hi there, I'm bbYcH 👋
-
-### 🎓 A Ph.D. Student focusing on Power Systems & Optimization.
-### 致力于电力系统优化运行与控制算法研究
 
 ---
 
