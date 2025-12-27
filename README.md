@@ -75,4 +75,7 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bbYcH&layout=compact&theme=default" alt="WakaTime Stats" height="180" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </div>
