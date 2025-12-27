@@ -70,9 +70,9 @@
 
 <br/>
 
-<p align="left">
+<!-- <p align="left">
   <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" height="180" />
-</p>
+</p> -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-24%20mins-blue)
