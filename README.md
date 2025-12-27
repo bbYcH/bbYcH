@@ -60,6 +60,7 @@
 <br/>
 <br/>
 
+---
 ### 📊 GitHub Activity
 
 <picture>
@@ -74,7 +75,6 @@
   <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" height="180" />
 </p> -->
 
----
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
