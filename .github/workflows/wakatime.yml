@@ -19,5 +19,7 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_OS: "True"
           SHOW_EDITORS: "True"
+          SHOW_PROJECTS: "False"
+
 
 
