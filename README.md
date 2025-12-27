@@ -70,6 +70,9 @@
 
 <br/>
 
-<img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
+<p align="left">
+  <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bbYcH&layout=compact&theme=default" alt="WakaTime Stats" height="180" />
+</p>
 
 </div>
