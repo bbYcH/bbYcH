@@ -20,6 +20,9 @@ jobs:
           SHOW_OS: "True"
           SHOW_EDITORS: "True"
           SHOW_PROJECTS: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROFILE_VIEWS: "False"
+
 
 
 
