@@ -82,21 +82,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-🌆 Daytime                185 commits         ███████████████░░░░░░░░░░   60.26 % 
-🌃 Evening                94 commits          ████████░░░░░░░░░░░░░░░░░   30.62 % 
-🌙 Night                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+🌞 Morning                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+🌆 Daytime                187 commits         ███████████████░░░░░░░░░░   60.52 % 
+🌃 Evening                94 commits          ████████░░░░░░░░░░░░░░░░░   30.42 % 
+🌙 Night                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Tuesday                  40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Wednesday                33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Thursday                 52 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Friday                   63 commits          █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-Saturday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Sunday                   76 commits          ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Tuesday                  40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Wednesday                33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Thursday                 52 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Friday                   63 commits          █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+Saturday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Sunday                   78 commits          ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
 ```
 
 
@@ -106,16 +106,16 @@ Sunday                   76 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   11 hrs 8 mins       █████████████████████████   100.00 % 
+Python                   9 hrs 22 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 44 mins       ████████████████████░░░░░   78.50 % 
-Trae                     2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+VS Code                  6 hrs 40 mins       ██████████████████░░░░░░░   71.27 % 
+Trae                     2 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Linux                    11 hrs 7 mins       █████████████████████████   99.84 % 
-Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Linux                    9 hrs 21 mins       █████████████████████████   99.81 % 
+Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +129,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 18:50:13 UTC
+ Last Updated on 04/01/2026 18:50:29 UTC
 <!--END_SECTION:waka-->
 
 </div>
