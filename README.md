@@ -106,17 +106,17 @@ Sunday                   78 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   16 hrs 37 mins      █████████████████████████   98.52 % 
-CSV                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Python                   14 hrs 53 mins      █████████████████████████   98.35 % 
+CSV                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-Trae                     12 hrs 27 mins      ██████████████████░░░░░░░   73.88 % 
-VS Code                  4 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Trae                     14 hrs 27 mins      ████████████████████████░   95.45 % 
+VS Code                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Linux                    16 hrs 50 mins      █████████████████████████   99.84 % 
-Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Linux                    15 hrs 7 mins       █████████████████████████   99.83 % 
+Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +130,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2026 18:52:54 UTC
+ Last Updated on 07/01/2026 18:55:54 UTC
 <!--END_SECTION:waka-->
 
 </div>
