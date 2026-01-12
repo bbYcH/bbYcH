@@ -107,7 +107,7 @@ Linux                    17 hrs 47 mins      ███████████�
 Windows                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 ```
 
-**I Mostly Code in Python** 
+**<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/> I Mostly Code in Python** 
 
 ```text
 Python                   10 repos            █████████████████░░░░░░░░   66.67 % 
