@@ -94,7 +94,7 @@ Sunday                   78 commits          ██████░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/codingcat.gif" height="20px"/>  **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
