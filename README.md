@@ -51,7 +51,7 @@
 <br/>
 <br/>
 
-<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/pacman.gif" width="100%">
+---
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> GitHub Activity
 
 <picture>
