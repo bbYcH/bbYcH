@@ -127,7 +127,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
  Last Updated on 11/01/2026 18:50:07 UTC
 <!--END_SECTION:waka-->
 
-<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/line.gif" width="100%">
+<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/cat_mouse.gif" width="100%">
 
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Contact with Me
 
