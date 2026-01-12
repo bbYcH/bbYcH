@@ -7,8 +7,7 @@
   <img src="https://img.shields.io/badge/🏠_Personal_Homepage-Visit_Me-2ea44f?style=for-the-badge" height="30">
 </a>
 
----
-<img src="https://github.com/bbYcH/bbYcH/blob/main/gif/line.gif">
+<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/line.gif" width="100%">
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Development Environment
 
