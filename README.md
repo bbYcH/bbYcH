@@ -74,7 +74,7 @@
 </p> -->
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/setting.gif" height="20px"/> I'm an Early 🐤** 
 
 ```text
 🌞 Morning                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
