@@ -10,7 +10,6 @@
 ---
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Development Environment
-*I work across multiple platforms.*
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -19,7 +18,6 @@
 <br/>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> Core Languages
-*My primary weapons for modeling, simulation, and algorithm implementation.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-e76f00?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -29,7 +27,6 @@
 <br/>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Research & Visualization Tools
-*Specialized tools for Analysis，Description and Presentation.*
 
 ![Pyomo](https://img.shields.io/badge/Pyomo-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![pandapower](https://img.shields.io/badge/pandapower-800080?style=for-the-badge&logo=python&logoColor=white)
@@ -43,7 +40,6 @@
 <br/>
 
 ### 🧮 Optimization Solvers
-*The heavy lifters for solving complex Operation and Planning problems.*
 
 ![Gurobi](https://img.shields.io/badge/Gurobi-EE3524?style=for-the-badge)
 ![Mosek](https://img.shields.io/badge/Mosek-81BC00?style=for-the-badge)
