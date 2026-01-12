@@ -122,6 +122,6 @@ SCSS                     1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
-### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> contact with me
+### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Contact with Me
 
 </div>
