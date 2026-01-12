@@ -15,7 +15,7 @@
 
 <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/pycharm.gif" width="50px" style="margin-right: 10px;">
 <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/vscode.gif" width="50px" style="margin-right: 10px;">
-
+<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/ubuntu.gif" width="50px" style="margin-right: 10px;">
 
 <br/>
 
