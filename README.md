@@ -13,9 +13,10 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=linux&logoColor=white)
 
+<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/ubuntu.gif" width="50px" style="margin-right: 10px;">
 <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/pycharm.gif" width="50px" style="margin-right: 10px;">
 <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/vscode.gif" width="50px" style="margin-right: 10px;">
-<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/ubuntu.gif" width="50px" style="margin-right: 10px;">
+
 
 <br/>
 
