@@ -81,7 +81,7 @@
 🌃 Evening                95 commits          ████████░░░░░░░░░░░░░░░░░   30.65 % 
 🌙 Night                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+**<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/goal.gif" height="20px"/> I'm Most Productive on Sunday** 
 
 ```text
 Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
