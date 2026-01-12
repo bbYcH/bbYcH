@@ -74,47 +74,47 @@
 </p> -->
 
 <!--START_SECTION:waka-->
-**<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/setting.gif" height="20px"/> I'm an Early <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/bird.gif" height="20px"/>** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-🌆 Daytime                187 commits         ███████████████░░░░░░░░░░   60.32 % 
-🌃 Evening                95 commits          ████████░░░░░░░░░░░░░░░░░   30.65 % 
-🌙 Night                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+🌆 Daytime                191 commits         █████████████░░░░░░░░░░░░   51.07 % 
+🌃 Evening                133 commits         █████████░░░░░░░░░░░░░░░░   35.56 % 
+🌙 Night                  37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 ```
-**<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/goal.gif" height="20px"/> I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Tuesday                  40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Wednesday                33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Thursday                 53 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Friday                   63 commits          █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Saturday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Sunday                   78 commits          ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Tuesday                  62 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Wednesday                33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Thursday                 53 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Friday                   63 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Saturday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Sunday                   78 commits          █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
 ```
 
 
-**<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/codingcat.gif" height="20px"/>  This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   18 hrs 1 min        █████████████████████████   98.64 % 
-CSV                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Python                   16 hrs 10 mins      █████████████████████████   98.48 % 
+CSV                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
-Trae                     16 hrs 22 mins      ██████████████████████░░░   89.60 % 
-VS Code                  1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-PyCharm                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Trae                     14 hrs 11 mins      ██████████████████████░░░   86.44 % 
+VS Code                  1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+PyCharm                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
- Operating System: 
-Linux                    17 hrs 47 mins      ████████████████████████░   97.38 % 
-Windows                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+💻 Operating System: 
+Linux                    15 hrs 56 mins      ████████████████████████░   97.08 % 
+Windows                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 ```
 
-**<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/coding.gif" height="20px"/> I Mostly Code in Python** 
+**I Mostly Code in Python** 
 
 ```text
 Python                   10 repos            █████████████████░░░░░░░░   66.67 % 
@@ -125,7 +125,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/01/2026 18:50:07 UTC
+ Last Updated on 12/01/2026 18:55:52 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/diasnour.gif" width="100%">
