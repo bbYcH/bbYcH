@@ -94,7 +94,7 @@ Sunday                   78 commits          ██████░░░░░�
 ```
 
 
-<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/codingcat.gif" height="20px"/>  **This Week I Spent My Time On** 
+**<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/codingcat.gif" height="20px"/>  This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
@@ -113,7 +113,7 @@ Linux                    17 hrs 47 mins      ███████████�
 Windows                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 ```
 
-**<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/> I Mostly Code in Python** 
+**<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/coding.gif" height="20px"/> I Mostly Code in Python** 
 
 ```text
 Python                   10 repos            █████████████████░░░░░░░░   66.67 % 
