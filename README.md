@@ -1,9 +1,10 @@
 <div align="left">
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 # Hi there， I am ... 👋
 <a href="https://bbych.github.io/">
   <img src="https://img.shields.io/badge/🏠_Personal_Homepage-Visit_Me-2ea44f?style=for-the-badge" height="30">
 </a>
+
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 ### 🎓 A Post-graduate Student focusing on Power Systems & Optimization.
 - 🔭 I’m currently working on ...
