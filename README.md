@@ -27,7 +27,8 @@
 ![Matlab](https://img.shields.io/badge/Matlab-e76f00?style=for-the-badge&logo=mathworks&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white)
-
+<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/python.gif" width="50px" style="margin-right: 10px;">
+<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/c.gif" width="50px" style="margin-right: 10px;">
 <br/>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Research & Visualization Tools
