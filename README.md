@@ -6,7 +6,7 @@
 <a href="https://bbych.github.io/">
   <img src="https://img.shields.io/badge/🏠_Personal_Homepage-Visit_Me-2ea44f?style=for-the-badge" height="30">
 </a>
-
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 ---
 
 ### 💻 Development Environment
