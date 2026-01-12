@@ -39,7 +39,7 @@
 
 <br/>
 
-### 🧮 Optimization Solvers
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> Optimization Solvers
 
 ![Gurobi](https://img.shields.io/badge/Gurobi-EE3524?style=for-the-badge)
 ![Mosek](https://img.shields.io/badge/Mosek-81BC00?style=for-the-badge)
