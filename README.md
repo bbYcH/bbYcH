@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/🏠_Personal_Homepage-Visit_Me-2ea44f?style=for-the-badge" height="30">
 </a>
 
-;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 ---
 
@@ -30,7 +30,7 @@
 
 <br/>
 
-### ⚡ Research & Visualization Tools
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Research & Visualization Tools
 *Specialized tools for Analysis，Description and Presentation.*
 
 ![Pyomo](https://img.shields.io/badge/Pyomo-3776AB?style=for-the-badge&logo=python&logoColor=white)
