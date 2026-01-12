@@ -102,7 +102,7 @@ Trae                     16 hrs 22 mins      ███████████�
 VS Code                  1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 PyCharm                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
-<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>  Operating System: 
+ Operating System: 
 Linux                    17 hrs 47 mins      ████████████████████████░   97.38 % 
 Windows                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 ```
