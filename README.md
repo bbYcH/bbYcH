@@ -9,7 +9,7 @@
 
 <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/bird.gif" align="right" width="400" style="margin-left: 20px;" />
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Development Environment <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/coding.gif" width="30px">
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Development Environment <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/coding.gif" width="30px" height="28">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -22,7 +22,7 @@
 
 <br/>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> Programming Languages <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/codingcat.gif" width="30px">
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> Programming Languages <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/codingcat.gif" width="30px" height="28">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-e76f00?style=for-the-badge&logo=mathworks&logoColor=white)
