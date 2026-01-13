@@ -59,7 +59,7 @@
 <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/cat_mouse.gif" width="100%">
 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> GitHub Activity
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> GitHub Activity <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/bird.gif" width="30px">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bbYcH/bbYcH/output/github-contribution-grid-snake-dark.svg">
