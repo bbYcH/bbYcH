@@ -12,10 +12,6 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Development Environment <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/coding.gif" width="30px" height="28">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=linux&logoColor=white)
-
 <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/ubuntu.gif" width="50px" style="margin-right: 10px;">
 <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/pycharm.gif" width="50px" style="margin-right: 10px;">
 <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/vscode.gif" width="50px" style="margin-right: 10px;">
@@ -25,12 +21,12 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> Programming Languages <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/codingcat.gif" width="30px" height="28">
 
-`
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-e76f00?style=for-the-badge&logo=mathworks&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white)
-`
+
 
 <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/python.gif" width="50px" style="margin-right: 10px;">
 <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/c.gif" width="50px" style="margin-right: 10px;">
