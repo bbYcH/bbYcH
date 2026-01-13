@@ -4,7 +4,7 @@
 
 ### <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"> Hi there! 
 <a href="https://bbych.github.io/"><img src="https://img.shields.io/badge/🏠_Personal_Homepage-Visit_Me-2ea44f?style=for-the-badge" height="30"></a><img src="https://github.com/bbYcH/bbYcH/raw/main/gif/pikaqiu.gif" width="30px">
-<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/github_bird.gif">
+<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/github_bird.gif" width="30px">
 
 <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/line.gif" width="100%">
 
