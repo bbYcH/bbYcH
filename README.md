@@ -7,6 +7,8 @@
 
 <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/line.gif" width="100%">
 
+<img src="https://github.com/bbYcH/bbYcH/raw/main/gif/bird.gif" align="right" width="400" style="margin-left: 20px;" />
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Development Environment
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
