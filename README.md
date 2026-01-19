@@ -96,15 +96,15 @@ Sunday                   78 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 46 mins       ████████████████████████░   94.17 % 
-CSV                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Python                   4 hrs 27 mins       ███████████████████████░░   93.79 % 
+CSV                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 
 🔥 Editors: 
-Trae                     2 hrs 56 mins       ███████████████░░░░░░░░░░   58.25 % 
-VS Code                  2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   41.75 % 
+Trae                     2 hrs 45 mins       ███████████████░░░░░░░░░░   58.10 % 
+VS Code                  1 hr 59 mins        ██████████░░░░░░░░░░░░░░░   41.90 % 
 
 💻 Operating System: 
-Linux                    5 hrs 3 mins        █████████████████████████   100.00 % 
+Linux                    4 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +118,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/01/2026 18:48:58 UTC
+ Last Updated on 19/01/2026 18:55:03 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://github.com/bbYcH/bbYcH/raw/main/gif/diasnour.gif" width="100%">
